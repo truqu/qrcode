@@ -5,5 +5,4 @@
 *.pdf
 *.pem
 *.png
-test/*
-work/*
+/_build
